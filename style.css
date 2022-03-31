@@ -414,3 +414,13 @@ footer #powered {
     text-align: start;
     margin-left: 50px;
 }
+
+footer .foot li:hover{
+    display: inline-flex;
+    border: 1px solid #FFAE2B;
+    padding: 20px;
+    align-items: center;
+    width: 20px;
+    height: 20px;
+    transition: all 0.5s ease;
+}
